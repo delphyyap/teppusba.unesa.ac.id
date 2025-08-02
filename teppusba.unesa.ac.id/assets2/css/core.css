@@ -1,0 +1,20 @@
+body,figure {
+    position: relative
+}
+
+.bg-danger,.bg-info,.bg-success,.bg-warning,.mark,figcaption,mark {
+    color: #fff
+}
+
+.icons-list,.list-icons li {
+    list-style: none
+}
+
+.caret:after,.dropdown-menu>.dropdown-submenu>a:after {
+    font-family: icomoon;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.btn.active.focus,.btn.active:focus,.btn.focus,.btn:active.focus,.btn:active:focus,.btn:focus,.close:focus,.close:hover,.dropdown-menu>li>a,.form-control:focus,.nav>li>a:focus,a,a:focus,button,input,input[type=radio]:focus,input[type=checkbox]:focus,input[type=file]:focus,textarea {
+    outline: 0

@@ -1,0 +1,22 @@
+.checker span:after,.navigation li>.has-ul:after,.select2-selection--single .select2-selection__clear:after {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.fc table,.picker__table,.ui-datepicker table {
+    border-collapse: collapse
+}
+
+.fc,.handsontable,.noUi-target,.tokenfield .token-input {
+    direction: ltr
+}
+
+.cropper-container,.footable>thead>tr>th,.irs,.selectboxit-container *,.ui-slider-pips .ui-slider-pip {
+    -webkit-touch-callout: none
+}
+
+.cropper-container,.fancybox-nav {
+    -webkit-tap-highlight-color: transparent
+}
+
+.c3-tooltip,.fc table,.picker__table,.pika-table {

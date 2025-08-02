@@ -1,0 +1,33 @@
+.bg-primary {
+    background-color: #2196F3;
+    border-color: #2196F3;
+    color: #fff
+}
+
+.bg-primary-300 {
+    background-color: #64B5F6;
+    border-color: #64B5F6;
+    color: #fff
+}
+
+.bg-primary-400 {
+    background-color: #42A5F5;
+    border-color: #42A5F5;
+    color: #fff
+}
+
+.bg-primary-600 {
+    background-color: #1E88E5;
+    border-color: #1E88E5;
+    color: #fff
+}
+
+.bg-primary-700 {
+    background-color: #1976D2;
+    border-color: #1976D2;
+    color: #fff
+}
+
+.bg-primary-800 {
+    background-color: #1565C0;
+    border-color: #1565C0;
